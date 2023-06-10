@@ -1,5 +1,3 @@
-#Giorgos Christodoulou  icsd19245
-#Lachana Vasiliki       icsd19110
 
 import requests
 import re
